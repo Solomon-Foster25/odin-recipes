@@ -1,0 +1,1 @@
+This project gives a list of delicious recipes for various meals and drinks. It has multiple pages that encompass the recipes, along with an image to accompany the recipe. It contains detailed ingredients and directions on how to make the recipe. Made with HTML.
